@@ -26,6 +26,8 @@ the individual trip attributes, we should predict the duration of each trip in t
 10. Train test split
 11. Gridsearch CV
 
+# Steps Involved
 
+**1. Exploratory Data Analysis**
 
 
