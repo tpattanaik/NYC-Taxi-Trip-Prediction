@@ -47,15 +47,21 @@ In **Univariate Analysis**, we got to know some insights of data as given below:
 • Passengers- There were some outliers as in few trips the number of passengers mentioned are
 7,8 or 9. So we took the mean, median and mode as 1 and replace it to 0 passengers in the list.
 From the analysis, it is evident that most of the trips was taken by single passenger.
+
 • Vendors- We analyze the data only for 2 vendors which are listed as 1 and 2 in the dataset.
 Vendor 2 is more famous among the population.
+
 • Distance- From the analysis, it is evident that most of the rides are completed between 1-10 Kms
 with some rides with distance between 10-30 Kms.
+
 • Trip duration- We can observe that most of the trips took 0-30 mins to complete.
+
 • Speed- Most of the trips were done at a speed range of 10-20 Km/Hr.
+
 • Total trips per hour- Here we can see an increasing trend of taxi pickups starting from Monday till
 Friday. The trend starts declining from Saturday till Monday. Taxi pickups seems to be consistent
 across the week at 15 Hours i.e., at 3 PM.
+
 • Total trips per month- It was quite a balance across the months here.
 
 
